@@ -9,7 +9,7 @@ This code uses the following hardware:
 5. 5V Fan
 6. Battery pack
 
-![WiringDiagram.](./WiringDiagram.jpeg)
+![WiringDiagram.](./WiringDiagram.jpg)
 
 The wiring diagram is as follows:
 
