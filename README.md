@@ -9,9 +9,8 @@ This code uses the following hardware:
 5. 5V Fan
 6. Battery pack
 
-![WiringDiagram.](./WiringDiagram.jpg)
-
 The wiring diagram is as follows:
 
+![WiringDiagram.](./WiringDiagram.jpg)
 
 To run this code, download the modules into the Raspberry Pi Pico 2W using Thonny.
